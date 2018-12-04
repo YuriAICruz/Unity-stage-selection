@@ -1,0 +1,13 @@
+{
+    "name": "Graphene.StageSelectionEditor",
+    "references": [
+        "Graphene.StageSelection",
+        "Graphene.UiGenerics"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

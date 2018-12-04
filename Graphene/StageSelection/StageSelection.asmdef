@@ -1,0 +1,10 @@
+{
+    "name": "Graphene.StageSelection",
+    "references": [
+        "Graphene.UiGenerics"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
